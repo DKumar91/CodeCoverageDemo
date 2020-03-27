@@ -1,0 +1,6 @@
+C:\Users\dinesh.kumar\Documents\codecoverage\CodeCoverageDemoProject1\CodeCoverageDemoProject1\bin\Release\CodeCoverageDemoProject1.dll.config
+C:\Users\dinesh.kumar\Documents\codecoverage\CodeCoverageDemoProject1\CodeCoverageDemoProject1\bin\Release\CodeCoverageDemoProject1.dll
+C:\Users\dinesh.kumar\Documents\codecoverage\CodeCoverageDemoProject1\CodeCoverageDemoProject1\bin\Release\CodeCoverageDemoProject1.pdb
+C:\Users\dinesh.kumar\Documents\codecoverage\CodeCoverageDemoProject1\CodeCoverageDemoProject1\obj\Release\CodeCoverageDemoProject1.csprojResolveAssemblyReference.cache
+C:\Users\dinesh.kumar\Documents\codecoverage\CodeCoverageDemoProject1\CodeCoverageDemoProject1\obj\Release\CodeCoverageDemoProject1.dll
+C:\Users\dinesh.kumar\Documents\codecoverage\CodeCoverageDemoProject1\CodeCoverageDemoProject1\obj\Release\CodeCoverageDemoProject1.pdb

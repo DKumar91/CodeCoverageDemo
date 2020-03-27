@@ -1,0 +1,7 @@
+C:\Users\dinesh.kumar\Documents\codecoverage\CodeCoverageDemoProject1\CodeCoverageDemoProject1\bin\Debug\CodeCoverageDemoProject\bin\Debug\CodeCoverageDemoProject.dll
+C:\Users\dinesh.kumar\Documents\codecoverage\CodeCoverageDemoProject1\CodeCoverageDemoProject1\bin\Debug\CodeCoverageDemoProject\bin\Debug\CodeCoverageDemoProject.pdb
+C:\Users\dinesh.kumar\Documents\codecoverage\CodeCoverageDemoProject1\CodeCoverageDemoProject1\bin\Debug\CodeCoverageDemoProject\bin\Debug\CodeCoverageDemoProject1.exe
+C:\Users\dinesh.kumar\Documents\codecoverage\CodeCoverageDemoProject1\CodeCoverageDemoProject1\bin\Debug\CodeCoverageDemoProject\bin\Debug\CodeCoverageDemoProject1.pdb
+C:\Users\dinesh.kumar\Documents\codecoverage\CodeCoverageDemoProject1\CodeCoverageDemoProject1\bin\Debug\CodeCoverageDemoProject\obj\Debug\CodeCoverageDemoProject.csprojResolveAssemblyReference.cache
+C:\Users\dinesh.kumar\Documents\codecoverage\CodeCoverageDemoProject1\CodeCoverageDemoProject1\bin\Debug\CodeCoverageDemoProject\obj\Debug\CodeCoverageDemoProject.dll
+C:\Users\dinesh.kumar\Documents\codecoverage\CodeCoverageDemoProject1\CodeCoverageDemoProject1\bin\Debug\CodeCoverageDemoProject\obj\Debug\CodeCoverageDemoProject.pdb

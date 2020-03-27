@@ -4,6 +4,8 @@ c:\users\dinesh.kumar\documents\visual studio 2013\Projects\CodeCoverageDemoProj
 c:\users\dinesh.kumar\documents\visual studio 2013\Projects\CodeCoverageDemoProject1\CodeCoverageDemoProject1\bin\Debug\CodeCoverageDemoProject1.pdb
 c:\users\dinesh.kumar\documents\visual studio 2013\Projects\CodeCoverageDemoProject1\CodeCoverageDemoProject1\obj\Debug\CodeCoverageDemoProject1.exe
 c:\users\dinesh.kumar\documents\visual studio 2013\Projects\CodeCoverageDemoProject1\CodeCoverageDemoProject1\obj\Debug\CodeCoverageDemoProject1.pdb
-C:\Users\dinesh.kumar\Documents\codecoverage\CodeCoverageDemoProject1\CodeCoverageDemoProject1\bin\Debug\CodeCoverageDemoProject1.exe.config
-C:\Users\dinesh.kumar\Documents\codecoverage\CodeCoverageDemoProject1\CodeCoverageDemoProject1\obj\Debug\CodeCoverageDemoProject1.exe
+C:\Users\dinesh.kumar\Documents\codecoverage\CodeCoverageDemoProject1\CodeCoverageDemoProject1\bin\Debug\CodeCoverageDemoProject1.dll.config
+C:\Users\dinesh.kumar\Documents\codecoverage\CodeCoverageDemoProject1\CodeCoverageDemoProject1\bin\Debug\CodeCoverageDemoProject1.dll
+C:\Users\dinesh.kumar\Documents\codecoverage\CodeCoverageDemoProject1\CodeCoverageDemoProject1\bin\Debug\CodeCoverageDemoProject1.pdb
+C:\Users\dinesh.kumar\Documents\codecoverage\CodeCoverageDemoProject1\CodeCoverageDemoProject1\obj\Debug\CodeCoverageDemoProject1.dll
 C:\Users\dinesh.kumar\Documents\codecoverage\CodeCoverageDemoProject1\CodeCoverageDemoProject1\obj\Debug\CodeCoverageDemoProject1.pdb
