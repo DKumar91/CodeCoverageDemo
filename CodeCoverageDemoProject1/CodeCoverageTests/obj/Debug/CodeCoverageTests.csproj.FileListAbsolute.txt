@@ -1,0 +1,7 @@
+c:\users\dinesh.kumar\documents\visual studio 2013\Projects\CodeCoverageDemoProject1\CodeCoverageTests\obj\Debug\CodeCoverageTests.csprojResolveAssemblyReference.cache
+c:\users\dinesh.kumar\documents\visual studio 2013\Projects\CodeCoverageDemoProject1\CodeCoverageTests\bin\Debug\CodeCoverageTests.dll
+c:\users\dinesh.kumar\documents\visual studio 2013\Projects\CodeCoverageDemoProject1\CodeCoverageTests\bin\Debug\CodeCoverageTests.pdb
+c:\users\dinesh.kumar\documents\visual studio 2013\Projects\CodeCoverageDemoProject1\CodeCoverageTests\bin\Debug\CodeCoverageDemoProject1.exe
+c:\users\dinesh.kumar\documents\visual studio 2013\Projects\CodeCoverageDemoProject1\CodeCoverageTests\bin\Debug\CodeCoverageDemoProject1.pdb
+c:\users\dinesh.kumar\documents\visual studio 2013\Projects\CodeCoverageDemoProject1\CodeCoverageTests\obj\Debug\CodeCoverageTests.dll
+c:\users\dinesh.kumar\documents\visual studio 2013\Projects\CodeCoverageDemoProject1\CodeCoverageTests\obj\Debug\CodeCoverageTests.pdb

@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="eb26cc89-a0a0-402a-aea2-9f9a880cd2c9" name="dinesh.kumar@PSILENL026 2020-03-26 18:42:03" runUser="PSIOG\dinesh.kumar" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <Times creation="2020-03-26T18:42:03.9382412+05:30" queuing="2020-03-26T18:42:03.9382412+05:30" start="2020-03-26T18:42:03.9425004+05:30" finish="2020-03-26T18:42:04.1182165+05:30" />
+  <TestSettings name="default" id="a9755f8b-fd78-48f9-8603-ea16f0ec7e68">
+    <Execution>
+      <TestTypeSpecific />
+    </Execution>
+    <Deployment runDeploymentRoot="dinesh.kumar_PSILENL026 2020-03-26 18_42_03" />
+    <Properties />
+  </TestSettings>
+  <Results>
+    <UnitTestResult executionId="82978cd6-9db2-494d-a605-12335f4c2c38" testId="69668d7d-5a1b-a6f6-9834-021250c6d2a0" testName="MulTest" computerName="PSILENL026" duration="00:00:00.0335540" startTime="2020-03-26T18:42:03.2068763+05:30" endTime="2020-03-26T18:42:03.7264333+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="82978cd6-9db2-494d-a605-12335f4c2c38" />
+    <UnitTestResult executionId="301aa32d-e7e5-4795-8f1c-ac3971ab7d5f" testId="a523163c-7b17-8c6d-5a96-a85ef7af67d3" testName="SubTest" computerName="PSILENL026" duration="00:00:00.0008290" startTime="2020-03-26T18:42:03.7354094+05:30" endTime="2020-03-26T18:42:03.7368130+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="301aa32d-e7e5-4795-8f1c-ac3971ab7d5f" />
+    <UnitTestResult executionId="793f0342-d92d-437d-88a4-28760b477516" testId="56e7ebe8-a1fe-16de-7184-74a7499912cf" testName="AddTest" computerName="PSILENL026" duration="00:00:00.0073517" startTime="2020-03-26T18:42:03.7368130+05:30" endTime="2020-03-26T18:42:03.7443835+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="793f0342-d92d-437d-88a4-28760b477516" />
+    <UnitTestResult executionId="c6546317-5e05-4407-9be2-1575211f5ae1" testId="37dfe1b2-9ee3-aa83-9ef5-375846bdc03d" testName="DivTest" computerName="PSILENL026" duration="00:00:00.0008169" startTime="2020-03-26T18:42:03.7443835+05:30" endTime="2020-03-26T18:42:03.7463785+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="c6546317-5e05-4407-9be2-1575211f5ae1" />
+    <UnitTestResult executionId="dd9214a9-86c8-49fc-a3cf-c3f545c4e3e8" testId="06bbbdd0-b44c-7a15-cc66-7951e941fc05" testName="IsGreaterthanZeroTest" computerName="PSILENL026" duration="00:00:00.0019776" startTime="2020-03-26T18:42:03.7463785+05:30" endTime="2020-03-26T18:42:03.7483730+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="dd9214a9-86c8-49fc-a3cf-c3f545c4e3e8">
+      <Output>
+        <StdOut>-20 is not greater than zero</StdOut>
+      </Output>
+    </UnitTestResult>
+  </Results>
+  <TestDefinitions>
+    <UnitTest name="MulTest" storage="c:\users\dinesh.kumar\documents\visual studio 2013\projects\codecoveragedemoproject1\codecoveragetests\bin\debug\codecoveragetests.dll" id="69668d7d-5a1b-a6f6-9834-021250c6d2a0">
+      <Execution id="82978cd6-9db2-494d-a605-12335f4c2c38" />
+      <TestMethod codeBase="C:\Users\dinesh.kumar\Documents\Visual Studio 2013\Projects\CodeCoverageDemoProject1\CodeCoverageTests\bin\Debug\CodeCoverageTests.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter" className="CodeCoverageTests.ArithmeticTests" name="MulTest" />
+    </UnitTest>
+    <UnitTest name="SubTest" storage="c:\users\dinesh.kumar\documents\visual studio 2013\projects\codecoveragedemoproject1\codecoveragetests\bin\debug\codecoveragetests.dll" id="a523163c-7b17-8c6d-5a96-a85ef7af67d3">
+      <Execution id="301aa32d-e7e5-4795-8f1c-ac3971ab7d5f" />
+      <TestMethod codeBase="C:\Users\dinesh.kumar\Documents\Visual Studio 2013\Projects\CodeCoverageDemoProject1\CodeCoverageTests\bin\Debug\CodeCoverageTests.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter" className="CodeCoverageTests.ArithmeticTests" name="SubTest" />
+    </UnitTest>
+    <UnitTest name="AddTest" storage="c:\users\dinesh.kumar\documents\visual studio 2013\projects\codecoveragedemoproject1\codecoveragetests\bin\debug\codecoveragetests.dll" id="56e7ebe8-a1fe-16de-7184-74a7499912cf">
+      <Execution id="793f0342-d92d-437d-88a4-28760b477516" />
+      <TestMethod codeBase="C:\Users\dinesh.kumar\Documents\Visual Studio 2013\Projects\CodeCoverageDemoProject1\CodeCoverageTests\bin\Debug\CodeCoverageTests.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter" className="CodeCoverageTests.ArithmeticTests" name="AddTest" />
+    </UnitTest>
+    <UnitTest name="DivTest" storage="c:\users\dinesh.kumar\documents\visual studio 2013\projects\codecoveragedemoproject1\codecoveragetests\bin\debug\codecoveragetests.dll" id="37dfe1b2-9ee3-aa83-9ef5-375846bdc03d">
+      <Execution id="c6546317-5e05-4407-9be2-1575211f5ae1" />
+      <TestMethod codeBase="C:\Users\dinesh.kumar\Documents\Visual Studio 2013\Projects\CodeCoverageDemoProject1\CodeCoverageTests\bin\Debug\CodeCoverageTests.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter" className="CodeCoverageTests.ArithmeticTests" name="DivTest" />
+    </UnitTest>
+    <UnitTest name="IsGreaterthanZeroTest" storage="c:\users\dinesh.kumar\documents\visual studio 2013\projects\codecoveragedemoproject1\codecoveragetests\bin\debug\codecoveragetests.dll" id="06bbbdd0-b44c-7a15-cc66-7951e941fc05">
+      <Execution id="dd9214a9-86c8-49fc-a3cf-c3f545c4e3e8" />
+      <TestMethod codeBase="C:\Users\dinesh.kumar\Documents\Visual Studio 2013\Projects\CodeCoverageDemoProject1\CodeCoverageTests\bin\Debug\CodeCoverageTests.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter" className="CodeCoverageTests.ArithmeticTests" name="IsGreaterthanZeroTest" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestEntries>
+    <TestEntry testId="69668d7d-5a1b-a6f6-9834-021250c6d2a0" executionId="82978cd6-9db2-494d-a605-12335f4c2c38" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="a523163c-7b17-8c6d-5a96-a85ef7af67d3" executionId="301aa32d-e7e5-4795-8f1c-ac3971ab7d5f" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="56e7ebe8-a1fe-16de-7184-74a7499912cf" executionId="793f0342-d92d-437d-88a4-28760b477516" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="37dfe1b2-9ee3-aa83-9ef5-375846bdc03d" executionId="c6546317-5e05-4407-9be2-1575211f5ae1" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="06bbbdd0-b44c-7a15-cc66-7951e941fc05" executionId="dd9214a9-86c8-49fc-a3cf-c3f545c4e3e8" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <ResultSummary outcome="Completed">
+    <Counters total="5" executed="5" passed="5" failed="0" error="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+    <RunInfos>
+      <RunInfo computerName="PSILENL026" outcome="Warning" timestamp="2020-03-26T18:42:02.2703595+05:30">
+        <Text>Diagnostic data adapter message: Could not find diagnostic data adapter 'Code Coverage'.  Make sure diagnostic data adapter is installed and try again.</Text>
+      </RunInfo>
+    </RunInfos>
+  </ResultSummary>
+</TestRun>
