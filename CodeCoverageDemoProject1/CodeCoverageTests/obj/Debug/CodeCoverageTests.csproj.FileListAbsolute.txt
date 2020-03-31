@@ -9,6 +9,8 @@ C:\Users\dinesh.kumar\Documents\codecoverage\CodeCoverageDemoProject1\CodeCovera
 C:\Users\dinesh.kumar\Documents\codecoverage\CodeCoverageDemoProject1\CodeCoverageTests\bin\Debug\CodeCoverageTests.pdb
 C:\Users\dinesh.kumar\Documents\codecoverage\CodeCoverageDemoProject1\CodeCoverageTests\bin\Debug\CodeCoverageDemoProject1.dll
 C:\Users\dinesh.kumar\Documents\codecoverage\CodeCoverageDemoProject1\CodeCoverageTests\bin\Debug\WebApplication3.dll
+C:\Users\dinesh.kumar\Documents\codecoverage\CodeCoverageDemoProject1\CodeCoverageTests\bin\Debug\WebDriver.dll
+C:\Users\dinesh.kumar\Documents\codecoverage\CodeCoverageDemoProject1\CodeCoverageTests\bin\Debug\WebDriver.Support.dll
 C:\Users\dinesh.kumar\Documents\codecoverage\CodeCoverageDemoProject1\CodeCoverageTests\bin\Debug\System.Web.Optimization.dll
 C:\Users\dinesh.kumar\Documents\codecoverage\CodeCoverageDemoProject1\CodeCoverageTests\bin\Debug\Microsoft.AspNet.Membership.OpenAuth.dll
 C:\Users\dinesh.kumar\Documents\codecoverage\CodeCoverageDemoProject1\CodeCoverageTests\bin\Debug\DotNetOpenAuth.AspNet.dll
@@ -23,6 +25,8 @@ C:\Users\dinesh.kumar\Documents\codecoverage\CodeCoverageDemoProject1\CodeCovera
 C:\Users\dinesh.kumar\Documents\codecoverage\CodeCoverageDemoProject1\CodeCoverageTests\bin\Debug\Antlr3.Runtime.dll
 C:\Users\dinesh.kumar\Documents\codecoverage\CodeCoverageDemoProject1\CodeCoverageTests\bin\Debug\CodeCoverageDemoProject1.pdb
 C:\Users\dinesh.kumar\Documents\codecoverage\CodeCoverageDemoProject1\CodeCoverageTests\bin\Debug\WebApplication3.pdb
+C:\Users\dinesh.kumar\Documents\codecoverage\CodeCoverageDemoProject1\CodeCoverageTests\bin\Debug\WebDriver.xml
+C:\Users\dinesh.kumar\Documents\codecoverage\CodeCoverageDemoProject1\CodeCoverageTests\bin\Debug\WebDriver.Support.xml
 C:\Users\dinesh.kumar\Documents\codecoverage\CodeCoverageDemoProject1\CodeCoverageTests\bin\Debug\Microsoft.AspNet.Membership.OpenAuth.xml
 C:\Users\dinesh.kumar\Documents\codecoverage\CodeCoverageDemoProject1\CodeCoverageTests\bin\Debug\DotNetOpenAuth.AspNet.xml
 C:\Users\dinesh.kumar\Documents\codecoverage\CodeCoverageDemoProject1\CodeCoverageTests\bin\Debug\Microsoft.AspNet.FriendlyUrls.xml
