@@ -58,6 +58,10 @@
       <Project>{e3804451-23f6-4160-9070-cf4f9ddb3b11}</Project>
       <Name>CodeCoverageDemoProject1</Name>
     </ProjectReference>
+    <ProjectReference Include="..\WebApplication3\WebApplication3.csproj">
+      <Project>{a9260ebb-124b-4b65-9878-528faefda280}</Project>
+      <Name>WebApplication3</Name>
+    </ProjectReference>
   </ItemGroup>
   <Choose>
     <When Condition="'$(VisualStudioVersion)' == '10.0' And '$(IsCodedUITest)' == 'True'">
