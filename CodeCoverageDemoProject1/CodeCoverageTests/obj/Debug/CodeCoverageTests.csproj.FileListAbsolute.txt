@@ -36,6 +36,6 @@ C:\Users\dinesh.kumar\Documents\codecoverage\CodeCoverageDemoProject1\CodeCovera
 C:\Users\dinesh.kumar\Documents\codecoverage\CodeCoverageDemoProject1\CodeCoverageTests\bin\Debug\DotNetOpenAuth.OAuth.xml
 C:\Users\dinesh.kumar\Documents\codecoverage\CodeCoverageDemoProject1\CodeCoverageTests\bin\Debug\DotNetOpenAuth.OpenId.RelyingParty.xml
 C:\Users\dinesh.kumar\Documents\codecoverage\CodeCoverageDemoProject1\CodeCoverageTests\bin\Debug\DotNetOpenAuth.OpenId.xml
-C:\Users\dinesh.kumar\Documents\codecoverage\CodeCoverageDemoProject1\CodeCoverageTests\obj\Debug\CodeCoverageTests.csprojResolveAssemblyReference.cache
 C:\Users\dinesh.kumar\Documents\codecoverage\CodeCoverageDemoProject1\CodeCoverageTests\obj\Debug\CodeCoverageTests.dll
 C:\Users\dinesh.kumar\Documents\codecoverage\CodeCoverageDemoProject1\CodeCoverageTests\obj\Debug\CodeCoverageTests.pdb
+C:\Users\dinesh.kumar\Documents\codecoverage\CodeCoverageDemoProject1\CodeCoverageTests\obj\Debug\CodeCoverageTests.csprojResolveAssemblyReference.cache
