@@ -24,5 +24,19 @@ namespace CodeCoverageDemoProject1
             }
             return largest;
         }
+
+        public int SmallestNumberInArray(int[] a)
+        {
+            int smallest = a[0];
+            for (int i = 1; i <=a.Length-1; i++)
+            {
+                if (smallest > a[i])
+                {
+                    smallest = a[i];
+                }
+
+            }
+            return smallest;
+        }
     }
 }

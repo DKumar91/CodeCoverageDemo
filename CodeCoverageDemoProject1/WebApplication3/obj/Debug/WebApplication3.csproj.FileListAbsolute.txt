@@ -1,3 +1,4 @@
+C:\Users\dinesh.kumar\Documents\codecoverage\CodeCoverageDemoProject1\WebApplication3\obj\Debug\WebApplication3.pdb
 C:\Users\dinesh.kumar\Documents\codecoverage\CodeCoverageDemoProject1\WebApplication3\bin\WebApplication3.dll.config
 C:\Users\dinesh.kumar\Documents\codecoverage\CodeCoverageDemoProject1\WebApplication3\bin\WebApplication3.dll
 C:\Users\dinesh.kumar\Documents\codecoverage\CodeCoverageDemoProject1\WebApplication3\bin\WebApplication3.pdb
@@ -23,6 +24,7 @@ C:\Users\dinesh.kumar\Documents\codecoverage\CodeCoverageDemoProject1\WebApplica
 C:\Users\dinesh.kumar\Documents\codecoverage\CodeCoverageDemoProject1\WebApplication3\bin\System.Web.Providers.dll
 C:\Users\dinesh.kumar\Documents\codecoverage\CodeCoverageDemoProject1\WebApplication3\bin\WebGrease.dll
 C:\Users\dinesh.kumar\Documents\codecoverage\CodeCoverageDemoProject1\WebApplication3\bin\CodeCoverageDemoProject1.pdb
+C:\Users\dinesh.kumar\Documents\codecoverage\CodeCoverageDemoProject1\WebApplication3\bin\CodeCoverageDemoProject1.dll.config
 C:\Users\dinesh.kumar\Documents\codecoverage\CodeCoverageDemoProject1\WebApplication3\bin\EntityFramework.xml
 C:\Users\dinesh.kumar\Documents\codecoverage\CodeCoverageDemoProject1\WebApplication3\bin\EntityFramework.SqlServer.xml
 C:\Users\dinesh.kumar\Documents\codecoverage\CodeCoverageDemoProject1\WebApplication3\bin\System.Web.Providers.xml
@@ -34,9 +36,7 @@ C:\Users\dinesh.kumar\Documents\codecoverage\CodeCoverageDemoProject1\WebApplica
 C:\Users\dinesh.kumar\Documents\codecoverage\CodeCoverageDemoProject1\WebApplication3\bin\DotNetOpenAuth.AspNet.xml
 C:\Users\dinesh.kumar\Documents\codecoverage\CodeCoverageDemoProject1\WebApplication3\bin\Microsoft.AspNet.Membership.OpenAuth.xml
 C:\Users\dinesh.kumar\Documents\codecoverage\CodeCoverageDemoProject1\WebApplication3\bin\Microsoft.AspNet.FriendlyUrls.xml
-C:\Users\dinesh.kumar\Documents\codecoverage\CodeCoverageDemoProject1\WebApplication3\obj\Debug\WebApplication3.dll
-C:\Users\dinesh.kumar\Documents\codecoverage\CodeCoverageDemoProject1\WebApplication3\obj\Debug\WebApplication3.pdb
-C:\Users\dinesh.kumar\Documents\codecoverage\CodeCoverageDemoProject1\WebApplication3\bin\CodeCoverageDemoProject1.dll.config
 C:\Users\dinesh.kumar\Documents\codecoverage\CodeCoverageDemoProject1\WebApplication3\obj\Debug\WebApplication3.csprojAssemblyReference.cache
 C:\Users\dinesh.kumar\Documents\codecoverage\CodeCoverageDemoProject1\WebApplication3\obj\Debug\WebApplication3.csproj.CoreCompileInputs.cache
 C:\Users\dinesh.kumar\Documents\codecoverage\CodeCoverageDemoProject1\WebApplication3\obj\Debug\WebApplication3.csproj.CopyComplete
+C:\Users\dinesh.kumar\Documents\codecoverage\CodeCoverageDemoProject1\WebApplication3\obj\Debug\WebApplication3.dll

@@ -6,26 +6,35 @@ using System.Threading.Tasks;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using OpenQA.Selenium;
 using OpenQA.Selenium.Chrome;
+using System.Diagnostics.CodeAnalysis;
+
 
 namespace CodeCoverageTests
 {
+    [ExcludeFromCodeCoverage]
     [TestClass]
     public class SampleUITests
     {
         public static IWebDriver driver = new ChromeDriver(@"C:\Users\dinesh.kumar\Documents\codecoverage\CodeCoverageDemoProject1");
         public static void openbrowser()
         {
-            driver.Navigate().GoToUrl("http:\\localhost");
+            driver.Navigate().GoToUrl("http://localhost:56880/");
         }
 
         public static void enter_input(string fieldId, string value)
         {
+            driver.FindElement(By.Id(fieldId)).Clear();
             driver.FindElement(By.Id(fieldId)).SendKeys(value);
         }
 
         public static void click_findlargest_button()
         {
             driver.FindElement(By.Id("FeaturedContent_Button1")).Click();
+        }
+
+        public static void click_findsmallest_button()
+        {
+            driver.FindElement(By.Id("FeaturedContent_Button2")).Click();
         }
 
         public static void assertvaluedisplayed(string expectedvalue)
@@ -46,6 +55,8 @@ namespace CodeCoverageTests
             enter_input("FeaturedContent_TextBox5", "1000");
             click_findlargest_button();
             assertvaluedisplayed("1000");
+            //click_findsmallest_button();
+            //assertvaluedisplayed("5");
             driver.Close();
 
         }

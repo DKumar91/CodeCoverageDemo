@@ -8,6 +8,7 @@ c:\users\dinesh.kumar\documents\visual studio 2013\Projects\CodeCoverageDemoProj
 C:\Users\dinesh.kumar\Documents\codecoverage\CodeCoverageDemoProject1\CodeCoverageTests\bin\Debug\CodeCoverageTests.dll
 C:\Users\dinesh.kumar\Documents\codecoverage\CodeCoverageDemoProject1\CodeCoverageTests\bin\Debug\CodeCoverageTests.pdb
 C:\Users\dinesh.kumar\Documents\codecoverage\CodeCoverageDemoProject1\CodeCoverageTests\bin\Debug\CodeCoverageDemoProject1.dll
+C:\Users\dinesh.kumar\Documents\codecoverage\CodeCoverageDemoProject1\CodeCoverageTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
 C:\Users\dinesh.kumar\Documents\codecoverage\CodeCoverageDemoProject1\CodeCoverageTests\bin\Debug\WebApplication3.dll
 C:\Users\dinesh.kumar\Documents\codecoverage\CodeCoverageDemoProject1\CodeCoverageTests\bin\Debug\WebDriver.dll
 C:\Users\dinesh.kumar\Documents\codecoverage\CodeCoverageDemoProject1\CodeCoverageTests\bin\Debug\WebDriver.Support.dll
@@ -16,6 +17,7 @@ C:\Users\dinesh.kumar\Documents\codecoverage\CodeCoverageDemoProject1\CodeCovera
 C:\Users\dinesh.kumar\Documents\codecoverage\CodeCoverageDemoProject1\CodeCoverageTests\bin\Debug\DotNetOpenAuth.AspNet.dll
 C:\Users\dinesh.kumar\Documents\codecoverage\CodeCoverageDemoProject1\CodeCoverageTests\bin\Debug\Microsoft.AspNet.FriendlyUrls.dll
 C:\Users\dinesh.kumar\Documents\codecoverage\CodeCoverageDemoProject1\CodeCoverageTests\bin\Debug\WebGrease.dll
+C:\Users\dinesh.kumar\Documents\codecoverage\CodeCoverageDemoProject1\CodeCoverageTests\bin\Debug\Microsoft.Web.Infrastructure.dll
 C:\Users\dinesh.kumar\Documents\codecoverage\CodeCoverageDemoProject1\CodeCoverageTests\bin\Debug\EntityFramework.dll
 C:\Users\dinesh.kumar\Documents\codecoverage\CodeCoverageDemoProject1\CodeCoverageTests\bin\Debug\DotNetOpenAuth.Core.dll
 C:\Users\dinesh.kumar\Documents\codecoverage\CodeCoverageDemoProject1\CodeCoverageTests\bin\Debug\DotNetOpenAuth.OAuth.Consumer.dll
@@ -24,7 +26,9 @@ C:\Users\dinesh.kumar\Documents\codecoverage\CodeCoverageDemoProject1\CodeCovera
 C:\Users\dinesh.kumar\Documents\codecoverage\CodeCoverageDemoProject1\CodeCoverageTests\bin\Debug\DotNetOpenAuth.OpenId.dll
 C:\Users\dinesh.kumar\Documents\codecoverage\CodeCoverageDemoProject1\CodeCoverageTests\bin\Debug\Antlr3.Runtime.dll
 C:\Users\dinesh.kumar\Documents\codecoverage\CodeCoverageDemoProject1\CodeCoverageTests\bin\Debug\CodeCoverageDemoProject1.pdb
+C:\Users\dinesh.kumar\Documents\codecoverage\CodeCoverageDemoProject1\CodeCoverageTests\bin\Debug\CodeCoverageDemoProject1.dll.config
 C:\Users\dinesh.kumar\Documents\codecoverage\CodeCoverageDemoProject1\CodeCoverageTests\bin\Debug\WebApplication3.pdb
+C:\Users\dinesh.kumar\Documents\codecoverage\CodeCoverageDemoProject1\CodeCoverageTests\bin\Debug\WebApplication3.dll.config
 C:\Users\dinesh.kumar\Documents\codecoverage\CodeCoverageDemoProject1\CodeCoverageTests\bin\Debug\WebDriver.xml
 C:\Users\dinesh.kumar\Documents\codecoverage\CodeCoverageDemoProject1\CodeCoverageTests\bin\Debug\WebDriver.Support.xml
 C:\Users\dinesh.kumar\Documents\codecoverage\CodeCoverageDemoProject1\CodeCoverageTests\bin\Debug\Microsoft.AspNet.Membership.OpenAuth.xml
@@ -36,6 +40,8 @@ C:\Users\dinesh.kumar\Documents\codecoverage\CodeCoverageDemoProject1\CodeCovera
 C:\Users\dinesh.kumar\Documents\codecoverage\CodeCoverageDemoProject1\CodeCoverageTests\bin\Debug\DotNetOpenAuth.OAuth.xml
 C:\Users\dinesh.kumar\Documents\codecoverage\CodeCoverageDemoProject1\CodeCoverageTests\bin\Debug\DotNetOpenAuth.OpenId.RelyingParty.xml
 C:\Users\dinesh.kumar\Documents\codecoverage\CodeCoverageDemoProject1\CodeCoverageTests\bin\Debug\DotNetOpenAuth.OpenId.xml
+C:\Users\dinesh.kumar\Documents\codecoverage\CodeCoverageDemoProject1\CodeCoverageTests\obj\Debug\CodeCoverageTests.csprojAssemblyReference.cache
+C:\Users\dinesh.kumar\Documents\codecoverage\CodeCoverageDemoProject1\CodeCoverageTests\obj\Debug\CodeCoverageTests.csproj.CoreCompileInputs.cache
+C:\Users\dinesh.kumar\Documents\codecoverage\CodeCoverageDemoProject1\CodeCoverageTests\obj\Debug\CodeCoverageTests.csproj.CopyComplete
 C:\Users\dinesh.kumar\Documents\codecoverage\CodeCoverageDemoProject1\CodeCoverageTests\obj\Debug\CodeCoverageTests.dll
 C:\Users\dinesh.kumar\Documents\codecoverage\CodeCoverageDemoProject1\CodeCoverageTests\obj\Debug\CodeCoverageTests.pdb
-C:\Users\dinesh.kumar\Documents\codecoverage\CodeCoverageDemoProject1\CodeCoverageTests\obj\Debug\CodeCoverageTests.csprojResolveAssemblyReference.cache

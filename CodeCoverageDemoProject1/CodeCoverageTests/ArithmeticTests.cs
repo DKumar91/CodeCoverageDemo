@@ -1,9 +1,11 @@
 ﻿using System;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using CodeCoverageDemoProject1;
+using System.Diagnostics.CodeAnalysis;
 
 namespace CodeCoverageTests
 {
+    [ExcludeFromCodeCoverage]
     [TestClass]
     public class ArithmeticTests
     {

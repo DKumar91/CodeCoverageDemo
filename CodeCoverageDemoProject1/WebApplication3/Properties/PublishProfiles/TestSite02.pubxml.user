@@ -40,7 +40,13 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>03/31/2020 14:39:32</publishTime>
     </File>
     <File Include="bin/CodeCoverageDemoProject1.dll">
-      <publishTime>03/31/2020 14:45:24</publishTime>
+      <publishTime>04/03/2020 16:56:23</publishTime>
+    </File>
+    <File Include="bin/CodeCoverageDemoProject1.dll.config">
+      <publishTime>03/26/2020 11:07:36</publishTime>
+    </File>
+    <File Include="bin/CodeCoverageDemoProject1.pdb">
+      <publishTime>04/03/2020 16:56:23</publishTime>
     </File>
     <File Include="bin/DotNetOpenAuth.AspNet.dll">
       <publishTime>03/31/2020 14:39:36</publishTime>
@@ -91,7 +97,10 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>03/31/2020 14:39:30</publishTime>
     </File>
     <File Include="bin/WebApplication3.dll">
-      <publishTime>03/31/2020 15:42:38</publishTime>
+      <publishTime>04/03/2020 16:56:24</publishTime>
+    </File>
+    <File Include="bin/WebApplication3.pdb">
+      <publishTime>04/03/2020 16:56:24</publishTime>
     </File>
     <File Include="bin/WebGrease.dll">
       <publishTime>03/31/2020 14:39:30</publishTime>
@@ -268,7 +277,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>03/31/2020 15:33:25</publishTime>
     </File>
     <File Include="Default.aspx">
-      <publishTime>03/31/2020 15:39:52</publishTime>
+      <publishTime>03/04/2020 16:24:26</publishTime>
     </File>
     <File Include="favicon.ico">
       <publishTime>03/31/2020 15:33:22</publishTime>
@@ -406,7 +415,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>03/31/2020 15:33:31</publishTime>
     </File>
     <File Include="Web.config">
-      <publishTime>03/31/2020 15:34:01</publishTime>
+      <publishTime>03/04/2020 16:31:39</publishTime>
     </File>
   </ItemGroup>
 </Project>

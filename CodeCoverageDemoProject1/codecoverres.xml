@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CoverageSession xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Version="4.7.922.0">
+  <Summary numSequencePoints="0" visitedSequencePoints="0" numBranchPoints="0" visitedBranchPoints="0" sequenceCoverage="0" branchCoverage="0" maxCyclomaticComplexity="0" minCyclomaticComplexity="0" maxCrapScore="0" minCrapScore="0" visitedClasses="0" numClasses="0" visitedMethods="0" numMethods="0" />
+  <Modules>
+    <Module skippedDueTo="Filter" hash="79-17-EF-07-1D-2B-AA-18-22-AA-EC-2E-BE-5F-ED-42-E8-1D-EC-56">
+      <ModulePath>C:\WINDOWS\Microsoft.Net\assembly\GAC_64\mscorlib\v4.0_4.0.0.0__b77a5c561934e089\mscorlib.dll</ModulePath>
+      <ModuleTime>2020-01-09T19:44:32.1866878Z</ModuleTime>
+      <ModuleName>mscorlib</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="MissingPdb" hash="7A-95-AB-0C-6C-E3-A4-45-42-48-DC-97-5E-F7-98-8B-EF-CD-6B-D8">
+      <ModulePath>C:\Program Files\IIS Express\iisexpresstray.dll</ModulePath>
+      <ModuleTime>2020-01-17T11:28:12Z</ModuleTime>
+      <ModuleName>iisexpresstray</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="46-9C-B8-58-19-93-EA-AF-37-D1-2A-10-BE-F6-9C-B2-78-57-1D-92">
+      <ModulePath>C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Windows.Forms\v4.0_4.0.0.0__b77a5c561934e089\System.Windows.Forms.dll</ModulePath>
+      <ModuleTime>2020-01-09T19:46:54Z</ModuleTime>
+      <ModuleName>System.Windows.Forms</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="4A-9D-81-85-DC-CF-74-ED-91-AC-6F-7B-37-3D-3E-0B-36-5C-56-66">
+      <ModulePath>C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System\v4.0_4.0.0.0__b77a5c561934e089\System.dll</ModulePath>
+      <ModuleTime>2019-07-24T02:58:28Z</ModuleTime>
+      <ModuleName>System</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="01-60-AF-35-4F-E4-A5-26-23-04-78-BC-02-22-EB-4D-5D-FC-5D-63">
+      <ModulePath>C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Drawing\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Drawing.dll</ModulePath>
+      <ModuleTime>2019-03-19T04:46:43.2259519Z</ModuleTime>
+      <ModuleName>System.Drawing</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="DF-C9-61-37-67-FC-86-B5-19-6B-51-39-78-82-42-F2-94-44-FD-2F">
+      <ModulePath>C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Configuration\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Configuration.dll</ModulePath>
+      <ModuleTime>2019-03-19T04:46:46.1168105Z</ModuleTime>
+      <ModuleName>System.Configuration</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="BA-94-4B-50-1E-D5-31-87-F3-25-6E-BA-07-71-E4-9F-22-0D-B8-34">
+      <ModulePath>C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Xml\v4.0_4.0.0.0__b77a5c561934e089\System.Xml.dll</ModulePath>
+      <ModuleTime>2019-03-19T04:46:51.77351Z</ModuleTime>
+      <ModuleName>System.Xml</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="MissingPdb" hash="5A-AD-3B-9C-E5-27-99-30-86-80-F9-10-50-53-1F-E1-A6-6B-D0-45">
+      <ModulePath>C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\Accessibility\v4.0_4.0.0.0__b03f5f7f11d50a3a\Accessibility.dll</ModulePath>
+      <ModuleTime>2019-03-19T04:46:49.0857931Z</ModuleTime>
+      <ModuleName>Accessibility</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="MissingPdb" hash="FF-76-CE-9B-E6-F1-6E-E5-69-A1-82-0A-39-A0-10-09-36-16-F7-90">
+      <ModulePath>C:\Program Files\IIS Express\Microsoft.VisualStudio.Telemetry.dll</ModulePath>
+      <ModuleTime>2018-06-27T16:13:52Z</ModuleTime>
+      <ModuleName>Microsoft.VisualStudio.Telemetry</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="MissingPdb" hash="4D-BC-83-0B-A7-81-0E-C3-20-F3-CF-97-A1-4C-FA-19-70-2C-A3-5F">
+      <ModulePath>C:\Program Files\IIS Express\Microsoft.VisualStudio.Utilities.Internal.dll</ModulePath>
+      <ModuleTime>2018-06-13T15:10:42Z</ModuleTime>
+      <ModuleName>Microsoft.VisualStudio.Utilities.Internal</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="CC-DB-8A-78-1D-14-03-CA-9E-57-77-AD-02-B0-11-1E-9D-D0-F8-EB">
+      <ModulePath>C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Core\v4.0_4.0.0.0__b77a5c561934e089\System.Core.dll</ModulePath>
+      <ModuleTime>2019-12-07T06:03:04Z</ModuleTime>
+      <ModuleName>System.Core</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="MissingPdb" hash="03-76-7F-7A-7E-0F-DE-80-8B-FC-EF-CA-B5-43-69-30-2D-87-EF-9E">
+      <ModulePath>C:\Program Files\IIS Express\Microsoft.VisualStudio.RemoteControl.dll</ModulePath>
+      <ModuleTime>2018-06-13T16:01:10Z</ModuleTime>
+      <ModuleName>Microsoft.VisualStudio.RemoteControl</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="MissingPdb" hash="D3-17-CE-F9-E1-12-65-54-55-F4-AD-50-14-8D-6C-F7-FB-BF-C8-45">
+      <ModulePath>C:\WINDOWS\assembly\GAC_MSIL\Microsoft.Web\7.1.0.0__31bf3856ad364e35\Microsoft.Web.dll</ModulePath>
+      <ModuleTime>2020-03-23T14:09:00.4768206Z</ModuleTime>
+      <ModuleName>Microsoft.Web</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="FF-D1-C5-C7-2D-52-76-1B-13-CF-CD-23-22-CF-5F-48-45-EF-E9-01">
+      <ModulePath>C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Management\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Management.dll</ModulePath>
+      <ModuleTime>2019-03-19T04:46:43.5072239Z</ModuleTime>
+      <ModuleName>System.Management</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="MissingPdb" hash="6B-0D-A7-56-17-A2-26-94-93-DC-1A-68-5D-7A-0B-07-F2-E4-8C-75">
+      <ModulePath>C:\Program Files\IIS Express\Newtonsoft.Json.dll</ModulePath>
+      <ModuleTime>2016-06-13T16:36:14Z</ModuleTime>
+      <ModuleName>Newtonsoft.Json</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="95-38-95-FE-36-13-50-C3-4C-7B-E9-A4-69-13-03-A4-C0-D8-7F-CD">
+      <ModulePath>C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Numerics\v4.0_4.0.0.0__b77a5c561934e089\System.Numerics.dll</ModulePath>
+      <ModuleTime>2019-03-19T04:46:49.1482976Z</ModuleTime>
+      <ModuleName>System.Numerics</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="2A-8E-FF-4D-F2-A7-D6-AA-9E-44-17-D8-8A-11-71-D4-7C-19-DA-FF">
+      <ModulePath>C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Runtime.Serialization\v4.0_4.0.0.0__b77a5c561934e089\System.Runtime.Serialization.dll</ModulePath>
+      <ModuleTime>2020-01-09T19:46:54Z</ModuleTime>
+      <ModuleName>System.Runtime.Serialization</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="E4-D1-8B-D7-79-3C-B4-80-A8-3F-D2-B2-34-ED-5A-C5-10-62-37-F2">
+      <ModulePath>C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Xml.Linq\v4.0_4.0.0.0__b77a5c561934e089\System.Xml.Linq.dll</ModulePath>
+      <ModuleTime>2019-03-19T04:46:43.9447582Z</ModuleTime>
+      <ModuleName>System.Xml.Linq</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="57-CE-98-9D-21-2C-02-FF-DD-D8-86-84-95-43-2B-B7-75-05-03-16">
+      <ModulePath>C:\WINDOWS\Microsoft.Net\assembly\GAC_64\System.Data\v4.0_4.0.0.0__b77a5c561934e089\System.Data.dll</ModulePath>
+      <ModuleTime>2019-12-07T06:00:37.9046237Z</ModuleTime>
+      <ModuleName>System.Data</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="79-17-EF-07-1D-2B-AA-18-22-AA-EC-2E-BE-5F-ED-42-E8-1D-EC-56">
+      <ModulePath>C:\WINDOWS\Microsoft.Net\assembly\GAC_64\mscorlib\v4.0_4.0.0.0__b77a5c561934e089\mscorlib.dll</ModulePath>
+      <ModuleTime>2020-01-09T19:44:32.1866878Z</ModuleTime>
+      <ModuleName>mscorlib</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="04-92-31-F6-AF-DB-82-CE-7F-AD-A9-52-42-0C-26-C5-2A-65-10-FA">
+      <ModulePath>C:\WINDOWS\Microsoft.Net\assembly\GAC_64\System.Web\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Web.dll</ModulePath>
+      <ModuleTime>2019-11-23T04:37:24.5053551Z</ModuleTime>
+      <ModuleName>System.Web</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="4A-9D-81-85-DC-CF-74-ED-91-AC-6F-7B-37-3D-3E-0B-36-5C-56-66">
+      <ModulePath>C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System\v4.0_4.0.0.0__b77a5c561934e089\System.dll</ModulePath>
+      <ModuleTime>2019-07-24T02:58:28Z</ModuleTime>
+      <ModuleName>System</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="DA-71-AE-88-B6-21-45-3C-C4-23-04-4A-63-AD-5B-A8-54-A3-9E-5B">
+      <ModulePath>C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Web.ApplicationServices\v4.0_4.0.0.0__31bf3856ad364e35\System.Web.ApplicationServices.dll</ModulePath>
+      <ModuleTime>2019-11-23T05:17:10Z</ModuleTime>
+      <ModuleName>System.Web.ApplicationServices</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="DF-C9-61-37-67-FC-86-B5-19-6B-51-39-78-82-42-F2-94-44-FD-2F">
+      <ModulePath>C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Configuration\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Configuration.dll</ModulePath>
+      <ModuleTime>2019-03-19T04:46:46.1168105Z</ModuleTime>
+      <ModuleName>System.Configuration</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="CC-DB-8A-78-1D-14-03-CA-9E-57-77-AD-02-B0-11-1E-9D-D0-F8-EB">
+      <ModulePath>C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Core\v4.0_4.0.0.0__b77a5c561934e089\System.Core.dll</ModulePath>
+      <ModuleTime>2019-12-07T06:03:04Z</ModuleTime>
+      <ModuleName>System.Core</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="BA-94-4B-50-1E-D5-31-87-F3-25-6E-BA-07-71-E4-9F-22-0D-B8-34">
+      <ModulePath>C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Xml\v4.0_4.0.0.0__b77a5c561934e089\System.Xml.dll</ModulePath>
+      <ModuleTime>2019-03-19T04:46:51.77351Z</ModuleTime>
+      <ModuleName>System.Xml</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="56-9C-3E-C0-CD-17-E5-5A-F8-A7-B5-67-4D-05-45-EF-31-62-6B-2D">
+      <ModulePath>C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Runtime.Caching\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Runtime.Caching.dll</ModulePath>
+      <ModuleTime>2019-03-19T04:46:41.7883415Z</ModuleTime>
+      <ModuleName>System.Runtime.Caching</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="MissingPdb" hash="3E-90-37-75-94-B9-4E-6C-52-2F-64-6F-00-AC-1D-1C-3A-2F-43-8B">
+      <ModulePath>C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\Microsoft.Build.Utilities.v4.0\v4.0_4.0.0.0__b03f5f7f11d50a3a\Microsoft.Build.Utilities.v4.0.dll</ModulePath>
+      <ModuleTime>2019-03-19T04:46:43.7103648Z</ModuleTime>
+      <ModuleName>Microsoft.Build.Utilities.v4.0</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="MissingPdb" hash="7A-CC-F0-71-70-69-61-E6-13-01-39-74-07-D8-C4-B9-9F-C5-9A-3C">
+      <ModulePath>C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\Microsoft.JScript\v4.0_10.0.0.0__b03f5f7f11d50a3a\Microsoft.JScript.dll</ModulePath>
+      <ModuleTime>2019-03-19T04:46:43.7103648Z</ModuleTime>
+      <ModuleName>Microsoft.JScript</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="MissingPdb" hash="CA-F8-C2-05-A3-A9-73-89-9B-49-B9-42-96-07-51-D3-A9-DC-CB-F0">
+      <ModulePath>C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\Microsoft.VisualStudio.Web.PageInspector.Loader\v4.0_1.0.0.0__b03f5f7f11d50a3a\Microsoft.VisualStudio.Web.PageInspector.Loader.dll</ModulePath>
+      <ModuleTime>2020-03-23T13:58:04.1179254Z</ModuleTime>
+      <ModuleName>Microsoft.VisualStudio.Web.PageInspector.Loader</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="A0-3A-1A-BD-58-B4-C0-A4-78-F3-1C-8C-D2-A7-E5-40-B3-F6-E6-45">
+      <ModulePath>C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Web.WebPages.Deployment\v4.0_2.0.0.0__31bf3856ad364e35\System.Web.WebPages.Deployment.dll</ModulePath>
+      <ModuleTime>2019-10-21T07:46:14.0136456Z</ModuleTime>
+      <ModuleName>System.Web.WebPages.Deployment</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="MissingPdb" hash="91-F6-88-C2-35-38-8C-8B-CE-E0-3F-F2-0D-0C-8A-90-DB-DD-4E-3E">
+      <ModulePath>C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\Microsoft.Web.Infrastructure\v4.0_1.0.0.0__31bf3856ad364e35\Microsoft.Web.Infrastructure.dll</ModulePath>
+      <ModuleTime>2019-10-21T07:44:48.1884716Z</ModuleTime>
+      <ModuleName>Microsoft.Web.Infrastructure</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="8C-81-48-AA-3E-77-00-77-D6-F1-34-64-11-A7-CF-9C-B3-F2-72-2F">
+      <ModulePath>C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.ServiceModel.Activation\v4.0_4.0.0.0__31bf3856ad364e35\System.ServiceModel.Activation.dll</ModulePath>
+      <ModuleTime>2019-03-19T04:46:48.9920354Z</ModuleTime>
+      <ModuleName>System.ServiceModel.Activation</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="ED-AE-50-6A-B6-80-48-20-A6-2A-B4-71-B0-71-73-57-F2-7E-3E-77">
+      <ModulePath>C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Web.Extensions\v4.0_4.0.0.0__31bf3856ad364e35\System.Web.Extensions.dll</ModulePath>
+      <ModuleTime>2019-11-23T05:17:10Z</ModuleTime>
+      <ModuleName>System.Web.Extensions</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="BB-80-4D-57-28-4C-C5-76-72-6F-11-E7-E6-86-43-26-A9-62-89-CD">
+      <ModulePath>C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.ServiceModel.Internals\v4.0_4.0.0.0__31bf3856ad364e35\System.ServiceModel.Internals.dll</ModulePath>
+      <ModuleTime>2020-01-09T19:46:54Z</ModuleTime>
+      <ModuleName>System.ServiceModel.Internals</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="F6-78-6D-3F-80-E4-33-04-2A-B5-7E-C0-27-43-69-BE-C7-C9-5D-78">
+      <ModulePath>C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.ServiceModel\v4.0_4.0.0.0__b77a5c561934e089\System.ServiceModel.dll</ModulePath>
+      <ModuleTime>2020-01-09T19:46:54Z</ModuleTime>
+      <ModuleName>System.ServiceModel</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="MissingPdb" hash="AA-A1-B5-37-5B-A3-3F-60-8A-4D-0B-A0-48-E4-49-D8-49-E0-96-D9">
+      <ModulePath>C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\SMDiagnostics\v4.0_4.0.0.0__b77a5c561934e089\SMDiagnostics.dll</ModulePath>
+      <ModuleTime>2020-01-09T19:46:54Z</ModuleTime>
+      <ModuleName>SMDiagnostics</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="MissingPdb" hash="8A-FB-E8-F9-99-4C-FD-07-37-E9-85-56-63-31-39-45-BC-8A-1D-AD">
+      <ModulePath>C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\PresentationFramework\v4.0_4.0.0.0__31bf3856ad364e35\PresentationFramework.dll</ModulePath>
+      <ModuleTime>2020-01-09T19:46:54Z</ModuleTime>
+      <ModuleName>PresentationFramework</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="MissingPdb" hash="E4-94-E9-05-35-CD-01-90-78-78-ED-43-6B-3A-C2-E4-EE-BF-56-A9">
+      <ModulePath>C:\WINDOWS\Microsoft.Net\assembly\GAC_64\PresentationCore\v4.0_4.0.0.0__31bf3856ad364e35\PresentationCore.dll</ModulePath>
+      <ModuleTime>2020-01-09T19:44:32.2648095Z</ModuleTime>
+      <ModuleName>PresentationCore</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="MissingPdb" hash="AF-50-9B-44-47-81-E8-C1-CC-9F-EA-0A-46-0C-D5-7E-D1-51-61-F3">
+      <ModulePath>C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\WindowsBase\v4.0_4.0.0.0__31bf3856ad364e35\WindowsBase.dll</ModulePath>
+      <ModuleTime>2020-01-09T19:46:54Z</ModuleTime>
+      <ModuleName>WindowsBase</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="E6-F3-25-19-0A-BF-A3-BF-E8-58-1A-65-55-F9-7F-E3-CE-7E-7B-D3">
+      <ModulePath>C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Xaml\v4.0_4.0.0.0__b77a5c561934e089\System.Xaml.dll</ModulePath>
+      <ModuleTime>2019-12-07T06:03:04Z</ModuleTime>
+      <ModuleName>System.Xaml</ModuleName>
+      <Classes />
+    </Module>
+  </Modules>
+</CoverageSession>

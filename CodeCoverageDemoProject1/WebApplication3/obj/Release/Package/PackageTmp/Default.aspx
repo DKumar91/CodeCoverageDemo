@@ -29,6 +29,9 @@
             <asp:Button ID="Button1" runat="server" OnClick="Button1_Click" Text="FindLargest" BorderWidth="1px" />
         </p>
         <p>
+            <asp:Button ID="Button2" runat="server" OnClick="Button2_Click" Text="FindSmallest" BorderWidth="1px" />
+        </p>
+        <p>
             <asp:Label ID="Label1" runat="server" Text=""></asp:Label>
         </p>
 </asp:Content>
